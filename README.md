@@ -15,6 +15,7 @@
 O projeto tem como finalidade **estabelecer uma conexão** entre **pessoas e seu dinheiro** às pessoas que necessitam constantemente se organizar financeiramente. 
 Solucionando um grande problema recorrente que é a falta de **controle financeiro**, facilitando a organização do seu dinheiro de um modo simples.
 
+**VISITE EM: https://habitue.vercel.app/**
 
 ## :computer: Tecnologias utilizadas
 
@@ -33,6 +34,21 @@ Solucionando um grande problema recorrente que é a falta de **controle financei
     - Jwt-decode
     - React pdfmake
     
+## :construction_worker: Projeto na sua máquina
+
+**Primeiramente você precisa ter instalado o [Node.js](https://nodejs.org/en/download/), depois efetuar o clone deste repositório a partir do seguinte comando:**
+
+```
+https://github.com/kelsiane/habitue.git
+```
+
+URLs SSH fornecem acesso a um repositório Git via SSH, um protocolo seguro. Se você tiver uma chave SSH registrada em
+sua conta do Github, clone o projeto usando este comando:
+
+```
+git@github.com:kelsiane/habitue.git
+```
+
 
 #### **Server** 
   - link para a API(https://habit-docs.vercel.app/)
