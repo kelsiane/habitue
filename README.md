@@ -1,17 +1,13 @@
 <div align=center>
 <h1  align="center">
-<a  href="https://ibb.co/XtrMXZS"><img width="200"  src="https://i.ibb.co/GR4N7vc/Frame-1-1.png" alt="Frame-1-1" border="0"></a>
+<a  href="https://ibb.co/XtrMXZS"><img width="200"  src="https://github.com/kelsiane/habitue/blob/master/habitue.svg" alt="Frame-1-1" border="0"></a>
 </h1>
+
 </div>
-<div align="center">
 
-![BADGE_WEB_REACT] 
+ 
 
 
-<h2 text-align="center">
-<a href="https://ibb.co/6gXyQBX"><img src="https://i.ibb.co/4P1Fkd1/image.png" alt="image" border="0"></a>
-</h2>
-</div>
 
 
 # :rocket: Sobre o projeto
@@ -25,20 +21,20 @@ Solucionando um grande problema recorrente que é a falta de **controle financei
 
 #### **Website** ([React][react])
 
-    - **[React Router Dom][react_router_dom]**
-    - **[React Icons][react_icons]**
-    - **[Axios][axios]**
-    - **[Yup][yup]**
-    - **[React Hook Form][react-hook-form]**
-    - **[React Hook Form/Resolvers][ @hookform/resolvers]**
-    - **[Styled Components][styled-components]**
-    - **[Material UI][@material-ui/core]** 
-    - **[React Toastify][react-toastify]**
-    - **[Jwt-decode][jwt-decode]**
-    - **[React pdfmake][react-pdfmake]**
+    - React Router Dom
+    - React Icons
+    - Axios
+    - Yup
+    - React Hook Form
+    - React Hook Form/Resolvers
+    - Styled Components
+    - Material UI 
+    - React Toastify
+    - Jwt-decode
+    - React pdfmake
     
 
-#### **Server** ([Api] [habit])
+#### **Server** 
   - link para a API(https://habit-docs.vercel.app/)
 
 #### **EndPoints Utilizados**
