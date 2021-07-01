@@ -1,6 +1,6 @@
 <div align=center>
 <h1  align="center">
-<a  href="https://ibb.co/XtrMXZS"><img  src="https://i.ibb.co/GR4N7vc/Frame-1-1.png" alt="Frame-1-1" border="0"></a>
+<a  href="https://ibb.co/XtrMXZS"><img width="200"  src="https://i.ibb.co/GR4N7vc/Frame-1-1.png" alt="Frame-1-1" border="0"></a>
 </h1>
 </div>
 <div align="center">
@@ -9,18 +9,18 @@
 
 
 <h2 text-align="center">
-Habitue é um projeto desenvolvido por alunos da Kenzie utilizando a tecnologia React 
 <a href="https://ibb.co/6gXyQBX"><img src="https://i.ibb.co/4P1Fkd1/image.png" alt="image" border="0"></a>
 </h2>
 </div>
 
-## **:habitue: OBJETIVO**
+
+# :rocket: Sobre o projeto
 
 O projeto tem como finalidade **estabelecer uma conexão** entre **pessoas e seu dinheiro** às pessoas que necessitam constantemente se organizar financeiramente. 
 Solucionando um grande problema recorrente que é a falta de **controle financeiro**, facilitando a organização do seu dinheiro de um modo simples.
 
 
-## **:computer: TECNOLOGIAS**
+## :computer: Tecnologias utilizadas
 
 
 #### **Website** ([React][react])
@@ -47,6 +47,8 @@ Solucionando um grande problema recorrente que é a falta de **controle financei
     -  /groups/
     -  /goals/
     -  /activities/
+    
+
 #### **Utilitários**
 
 - Protótipo: **[Figma](https://www.figma.com/)** &rarr; **<kbd>[Protótipo (Habitue)](https://www.figma.com/file/3ApSf8XObPdNFnFC2bIizK/Habitue?node-id=152%3A2)</kbd>**
@@ -58,7 +60,7 @@ Solucionando um grande problema recorrente que é a falta de **controle financei
 - Fonte:**[Roboto][font_roboto]**
 
 
-## **:star2: PARCEIROS**
+## **:star2: Parceiros**
 
 <div align=center>
 
@@ -82,7 +84,7 @@ Solucionando um grande problema recorrente que é a falta de **controle financei
     </td>
     <td>
       <a href="https://gitlab.com/Kelsiane">
-        <img width="200" height="180" src="https://secure.gravatar.com/avatar/07dc3607ef6213d8acdae53adae5fe15?s=800&d=identicon">
+        <img width="200" height="180" src="https://gitlab.com/uploads/-/system/user/avatar/2618335/avatar.png?width=400">
       </a>
     </td>
     <td>
@@ -95,23 +97,7 @@ Solucionando um grande problema recorrente que é a falta de **controle financei
 
 </div>
 
-## **:star2: AGRADECIMENTOS**
-<div align=center>
 
-<table style="width:100%">
-  <tr align=center>
-    <th><strong>Kenzie Academy Brasil</strong></th>
-  </tr>
-  <tr align=center>
-    <td>
-      <a href="https://kenzie.com.br/">
-        <img src="https://kenzie.com.br/images/popup-img.svg">
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
 
 <!-- Badges -->
 [BADGE_WEB_REACT]: https://img.shields.io/badge/web-react-blue
